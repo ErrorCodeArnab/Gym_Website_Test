@@ -11,7 +11,11 @@ This is a simple gym website.
 
 
 
-## Screenshots of the App
+## Screenshots
+
+![img01](https://user-images.githubusercontent.com/87152293/138597918-5db92619-1fff-4521-bad1-41800dc9390d.jpeg)
+
+
 
 
 ## Feedback
